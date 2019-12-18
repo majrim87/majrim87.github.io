@@ -1,0 +1,42 @@
+body{
+	 background-color: #f29d3d;
+}
+h1 {
+     color:white;
+     font-family: 'Turret Road', cursive;
+     font-size:70;
+	 text-align: center;
+ }
+ h2{
+	 text-align: center; 
+	 font-size:40;
+ }
+ p{
+	 font-size:35;
+	 font-family: 'Lato', sans-serif;
+	 padding-left:200px;
+	 padding-right:200px;
+	 padding-bottom:50px;
+	 padding-top:50px;
+	 text-align:center;
+ }
+  .one{
+	 font-size:80;
+ }
+td{
+	font-size:35;
+}
+th{
+	font-size:40;
+}
+table{
+	 width:90%;
+	 margin:auto;
+}
+table, th, td{
+	border: 2px solid black; 	
+}
+hr{
+	width:1000px;
+	color:solid white;
+}
