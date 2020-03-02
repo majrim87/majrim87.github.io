@@ -1,0 +1,55 @@
+body{
+	 background-color: #ffa229;
+}
+h1 {
+     color:white;
+     font-family: 'Turret Road', cursive;
+     font-size:50;
+	 text-align: center;
+ }
+ h2{
+	 text-align: center; 
+	 font-size:30;
+	 font-family: 'Lato', sans-serif;
+ }
+ p{
+	 font-size:25;
+	 font-family: 'Lato', sans-serif;
+	 padding-left:250px;
+	 padding-right:250px;
+	 padding-bottom:50px;
+	 padding-top:30px;
+	 text-align:center;
+ }
+  .one{
+	 font-size:80;
+ }
+td{
+	font-size:20;
+	padding:2%;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+th{
+	font-size:25;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+table{
+	 width:50%;
+	 margin:auto;
+	 background-color:white;
+	 border: solid #F4CC9C 10px;
+	 padding: 10px;
+	 border-radius: 20px;
+}
+
+.tableimg {
+	width: 200px;
+	height: 200px;
+	padding:20px;
+}
+hr{
+	width:1000px;
+	color:solid white;
+}
